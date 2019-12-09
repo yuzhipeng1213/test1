@@ -3,7 +3,7 @@ package com.woniu.aggregate;
 import java.util.Comparator;
 import java.util.Set;
 import java.util.TreeSet;
-
+//测试
 class Stu {
 	private String sname;
 	private Integer cresult;
